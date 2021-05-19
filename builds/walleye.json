@@ -1,18 +1,18 @@
   
 {
-    "datetime": "1621413427",
+    "datetime": "1621419731",
     "donate_url": "https://PayPal.me/baolong24",
     "error": false,
-    "filehash": "ea450d98c25b4e09bb353e5bef8ca8a0",
-    "filename": "Magisk-v23.0.zip",
+    "filehash": "1866862544cb06eb650e2fec551a5e46",
+    "filename": "aosp_walleye-userdebug-11.0-RQ2A.210505.003-20210519.174552.zip",
     "forum_url": "",
-    "id": "079bc3a7f67413cb12509d1b811958dd7e7c7fb593d3f0507954fea72077b524",
+    "id": "03238bf02551ecde27dcc57c9071b6719987142d99fc85fc0c5d91925a91e901",
     "maintainer": "baolong24",
     "maintainer_url": "https://baolong24.github.io",
     "news_url": "https://t.me/baolong24_channel",
-    "size": 6874374,
+    "size": 1137183068,
     "telegram_username": "baolong24",
-    "url": "https://baolong24-onedrive.herokuapp.com/ROM/Magisk-v23.0.zip",
+    "url": "https://baolong24-onedrive.herokuapp.com/ROM/Google%20Pixel%202/AOSP/aosp_walleye-userdebug-11.0-RQ2A.210505.003-20210519.174552.zip",
     "version": "Eleven",
     "website_url": "http://baolong24.moe:8181/"
  }

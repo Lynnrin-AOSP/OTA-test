@@ -1,1 +1,0 @@
-After install OTA will give your device root.
