@@ -1,3 +1,0 @@
-First build
-OTA Test!
-If you're not developer, Don't upgrade

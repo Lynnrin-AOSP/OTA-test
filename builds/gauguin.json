@@ -1,18 +1,18 @@
   
 {
-    "datetime": "1621435500",
+    "datetime": "1621510800",
     "donate_url": "https://PayPal.me/baolong24",
     "error": false,
-    "filehash": "63f93c81800c28a00c91564c87a9a02e",
-    "filename": "aosp_gauguin-userdebug-11.0-RQ2A.210505.003-20210519-1445.zip",
+    "filehash": "08774aef3f9e657361fe76d5ab25ed7f",
+    "filename": "aosp_gauguin-userdebug-11.0-RQ2A.210505.003-20210520-1140.zip",
     "forum_url": "",
-    "id": "15552947cc9674c9bbee8d139808d2cad0fcba1930217cfb8bae81523bbd5c36",
+    "id": "5fdc72ea4fb8058718c76b87f2032fbe029fed846502efd6217062064b4f5145",
     "maintainer": "baolong24",
     "maintainer_url": "https://baolong24.github.io",
     "news_url": "https://t.me/baolong24_channel",
-    "size": 2110795962,
+    "size": 2110724902,
     "telegram_username": "baolong24",
-    "url": "http://baolong24.moe:8181/?/ROM/Redmi%20Note%209%20Pro%20%26%20Mi%2010i%20%26%20Mi%2010T%20Lite/AOSP/aosp_gauguin-userdebug-11.0-RQ2A.210505.003-20210519-1445.zip",
+    "url": "https://baolong24-onedrive.herokuapp.com/ROM/Redmi%20Note%209%20Pro%20&%20Mi%2010i%20&%20Mi%2010T%20Lite/AOSP/aosp_gauguin-userdebug-11.0-RQ2A.210505.003-20210520-1140.zip",
     "version": "Eleven",
     "website_url": "http://baolong24.moe:8181/"
  }
