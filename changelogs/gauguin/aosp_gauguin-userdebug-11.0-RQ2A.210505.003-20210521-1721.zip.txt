@@ -1,0 +1,3 @@
+Added App Locker
+Added Lockscreen Media Art
+Using Pixel 5 Fingerprint to bypass CTS
