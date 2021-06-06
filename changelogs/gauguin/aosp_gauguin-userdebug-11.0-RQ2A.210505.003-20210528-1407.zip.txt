@@ -1,9 +1,0 @@
-English:
-Added Status Bar Lyric
-Fixed sepolicy rules about wakeup nodes
-Update vendor blobs and vendor image from V12.5.2.0.RJSCNXM
-
-中文:
-加入状态栏歌词
-修复了一些 wakeup 节点的 sepolicy 规则
-从最新 MIUI V12.5.2.0.RJSCNXM 更新了底层

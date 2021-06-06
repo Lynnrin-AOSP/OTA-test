@@ -1,0 +1,11 @@
+English:
+Added Status Bar icon customization
+Added pick-up to wake
+Switch to Power HAL based dt2w
+Spoof Pixel XL for Google Photos
+
+中文:
+加入状态栏歌词自定义
+加入拿起唤醒
+使用基于 Power HAL 的双击唤醒
+针对 Google 照片伪装机型为 Pixel XL
