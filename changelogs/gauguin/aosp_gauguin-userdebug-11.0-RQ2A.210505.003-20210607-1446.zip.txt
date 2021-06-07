@@ -1,0 +1,11 @@
+English:
+Added long screenshot (scroll screenshot)
+Added double tap to sleep
+Added swipe to screenshot
+Allow Updater to access HTTP file server
+
+中文:
+新增长截图
+新增双击息屏
+新增滑动截屏
+允许系统更新访问 HTTP 文件服务器
