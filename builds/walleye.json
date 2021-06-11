@@ -1,18 +1,17 @@
-  
 {
-    "datetime": "1621675680",
+    "datetime": "1623416693",
     "donate_url": "https://PayPal.me/baolong24",
     "error": false,
-    "filehash": "0b9b0fe108695acb3d96bf9cc5efb2d0",
-    "filename": "aosp_walleye-userdebug-11.0-RQ2A.210505.003-20210522-0928.zip",
+    "filehash": "03625e4456de7df107b66339cda6b921",
+    "filename": "aosp_walleye-userdebug-11.0-RQ2A.210505.003-20210611-1305.zip",
     "forum_url": "",
-    "id": "d2f5cf2b444598caff90d2cddfdbdf5817601e9a8f27af31d0ccfb90ef281cd7",
+    "id": "45b93f2d6a01780639577fdd3064fd6cd5ca7e30c97931e551f03ad5cb75b9cb",
     "maintainer": "baolong24",
     "maintainer_url": "https://baolong24.github.io",
     "news_url": "https://t.me/baolong24_channel",
-    "size": 1137347454,
+    "size": "1140604794",
     "telegram_username": "baolong24",
-    "url": "https://baolong24-onedrive.herokuapp.com/ROM/Google%20Pixel%202/AOSP/aosp_walleye-userdebug-11.0-RQ2A.210505.003-20210522-0928.zip",
+    "url": "https://baolong24-onedrive.herokuapp.com/ROM/Google%20Pixel%202/AOSP/aosp_walleye-userdebug-11.0-RQ2A.210505.003-20210611-1305.zip",
     "version": "Eleven",
     "website_url": "http://baolong24.moe:8181/"
  }

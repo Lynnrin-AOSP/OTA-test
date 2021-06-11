@@ -1,0 +1,6 @@
+Added Status Bar icon customization
+Added long screenshot (scroll screenshot)
+Added double tap to sleep
+Added swipe to screenshot
+Allow Updater to access HTTP file server
+Spoof Pixel XL for Google Photos
