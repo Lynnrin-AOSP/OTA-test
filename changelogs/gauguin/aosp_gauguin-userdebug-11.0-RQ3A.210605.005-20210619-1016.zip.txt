@@ -1,0 +1,11 @@
+English:
+June security patch
+Updated translations
+Updated gapps
+Improved Face Unlock
+
+中文:
+合并六月安全补丁
+更新翻译
+更新 gapps
+改进人脸解锁
