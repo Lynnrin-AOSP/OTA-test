@@ -1,0 +1,5 @@
+June security patch
+Updated translations
+Updated gapps
+Improved Face Unlock
+Fixed Safetynet
