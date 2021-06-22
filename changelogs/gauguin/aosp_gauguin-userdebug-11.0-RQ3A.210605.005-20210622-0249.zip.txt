@@ -1,0 +1,11 @@
+IT'S TEST BUILD, IF YOU'RE NOT DEVELOPER, DON'T UPGRADE
+
+English:
+Added Google Camera
+Fixed Lags on Google Photos while playing videos
+Added support for Apple AirDrop (Mac Only) and Windows Nearby Share (Big thanks to @XiNGRZ)
+
+中文:
+加入 Google 相机
+修复了 Google 相册播放视频卡顿的问题
+现已支持 Apple 隔空投送 (仅支持 Mac) 和 Windows 就近共享 (感谢 @XiNGRZ)
