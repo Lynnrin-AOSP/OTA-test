@@ -1,4 +1,3 @@
-TEST BUILD, DON'T INSTALL
 English:
 Fixed statusbar lyric can't be enabled on NetEase Music and QQ Music
 
