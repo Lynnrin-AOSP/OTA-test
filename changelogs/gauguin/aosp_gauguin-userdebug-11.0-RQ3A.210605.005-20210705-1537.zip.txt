@@ -1,5 +1,0 @@
-English:
-Fixed statusbar lyric can't be enabled on NetEase Music and QQ Music
-
-中文：
-修复网易云音乐和 QQ 无法打开状态栏歌词的问题

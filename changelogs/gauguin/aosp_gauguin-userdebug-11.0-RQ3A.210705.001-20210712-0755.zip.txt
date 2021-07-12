@@ -1,0 +1,11 @@
+English:
+July security patch
+Switch back to MIUI kernel from V12.5.3.0.RJSCNXM
+Update vendor image from V12.5.3.0.RJSCNXM
+Under the hood improvements
+
+中文：
+更新谷歌安全补丁 (2021#07)，提示系统安全性
+换回 MIUI 内核，提高系统稳定性
+从 V12.5.3.0.RJSCNXM 更新了 Vendor 镜像
+优化系统流畅度
