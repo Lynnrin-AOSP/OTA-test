@@ -1,0 +1,7 @@
+July security patch
+Ask pin for shutdown/reboot on secure lockscreen
+Added advanced reboot
+Added red, green, and blue color balance settings
+Added support for Apple AirDrop (Mac Only) and Windows Nearby Share (Big thanks to @XiNGRZ)
+Switch to AOSP Recovery
+Fixed statusbar lyric can't be enabled on NetEase Music and QQ Music
