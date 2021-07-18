@@ -1,4 +1,0 @@
-Added VoLTE support for China, Hong Kong, Taiwan, Singapore, Thailand, Indonesia and Malaysia carrier
-Added support for Apple AirDrop (Mac Only) and Windows Nearby Share (Big thanks to @XiNGRZ)
-Ask pin for shutdown/reboot on secure lockscreen
-Added advanced reboot
