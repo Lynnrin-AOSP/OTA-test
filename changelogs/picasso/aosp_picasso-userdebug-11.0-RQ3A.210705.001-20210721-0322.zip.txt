@@ -1,2 +1,0 @@
-Fixed K30i Camera issues
-Fixed SafetyNet
