@@ -1,2 +1,0 @@
-Fixed Chrome can't update issue
-Allow switching notch style
