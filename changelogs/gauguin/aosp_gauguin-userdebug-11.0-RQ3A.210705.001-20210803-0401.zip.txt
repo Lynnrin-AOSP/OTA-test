@@ -1,2 +1,0 @@
-Use 4G icon for China carrier
-Disabled ViLTE
