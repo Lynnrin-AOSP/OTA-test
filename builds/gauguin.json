@@ -1,17 +1,12 @@
 {
-    "datetime": "1629357000",
-    "donate_url": "https://PayPal.me/baolong24",
-    "error": false,
-    "filehash": "579e40152dc109d0febf60be63ca1e6a",
-    "filename": "aosp_gauguin-userdebug-11.0-RQ3A.210805.001.A1-20210819-0710.zip",
-    "forum_url": "",
-    "id": "123e5ceb08ebbdc07c84001b9373a36c95e59b04263a15108bcc343b31d9a076",
-    "maintainer": "baolong24",
-    "maintainer_url": "https://baolong24.github.io",
-    "news_url": "https://t.me/baolong24_channel",
-    "size": 2167379997,
-    "telegram_username": "baolong24",
-    "url": "https://baolong24.moe/t/8Wn988",
-    "version": "Eleven",
-    "website_url": "http://baolong24.moe:8181/"
+    "response": [
+        {
+            "datetime": 1643587200,
+            "filename": "lineage-18.1-20220131-nightly-gauguin-signed.zip",
+            "id": "b3b8c34b95183c76e74224da6632dcc74233bfc2263fe59bcf409db1483a9bbb",
+            "size": 1194481493,
+            "url": "https://mirrorbits.lineageos.org/full/gauguin/20220131/lineage-18.1-20220131-nightly-gauguin-signed.zip",
+            "version": "12.0"
+        }
+    ]
 }
