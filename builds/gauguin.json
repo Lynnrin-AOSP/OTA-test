@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 3000000000,
+            "filename": "Magisk-24.1.zip",
+            "id": "ea5e3823d9a96fa7cbf5e9a95970e816357fae69c258f42cd4a1c514fdde1196",
+            "size": 10575823,
+            "url": "https://lynnrin.download/Other/Magisk-24.1-sign.zip",
+            "updateable": true,
+            "version": "12"
+        },
+        {
             "datetime": 1644922567,
             "filename": "aosp_gauguin-12.0-20220126-Lynnrin.zip",
             "id": "14ebdf21c52e121c7cb18e169935156b0229a77bc0bc0ca0a137c90510071f24",
