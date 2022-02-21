@@ -1,20 +1,11 @@
 {
     "response": [
         {
-            "datetime": 3000000000,
-            "filename": "Magisk-24.1.zip",
-            "id": "ea5e3823d9a96fa7cbf5e9a95970e816357fae69c258f42cd4a1c514fdde1196",
-            "size": 10575823,
-            "url": "https://lynnrin.download/Other/Magisk-24.1-sign.zip",
-            "updateable": true,
-            "version": "12"
-        },
-        {
-            "datetime": 1644922567,
-            "filename": "Lineage.zip",
-            "id": "14ebdf21c52e121c7cb18e169935156b0229a77bc0bc0ca0a137c90510071f24",
-            "size": 1914790876,
-            "url": "https://lynnrin.download/ROM/Redmi%20Note%209%20Pro%20&%20Mi%2010i%20&%20Mi%2010T%20Lite/AOSP/12/aosp_gauguin-12.0-20220126-Lynnrin.zip",
+            "datetime": 1645447424,
+            "filename": "blueline-ota-sq1d.220205.004-20220221-凛々.zip",
+            "id": "357f405f58ed01ce73a08503011d6bc8442b1198cca5c0061b3a4925fe5173a7",
+            "size": 1656376879,
+            "url": "https://lynnrin.download/ROM/Google%20Pixel%203/AOSP/blueline-ota-sq1d.220205.004-20220221-%E5%87%9B%E3%80%85.zip",
             "updateable": true,
             "version": "12"
         }
